@@ -2,9 +2,9 @@
 
 Chapter 1 is all about "Variables And Data types" - https://github.com/Atharva-stack20/Java/tree/main/Chapter1 <br>
   &nbsp; In this chapter, I have covered: <br>
-    &ensp; 1. How to declare variables and how to use them <br>
-    &ensp; 2. Different data types and their use cases <br>
-    &ensp; 3. Did a simple project named "Percentage Calculator" <br>
+    &emsp; 1. How to declare variables and how to use them <br>
+    &emsp; 2. Different data types and their use cases <br>
+    &emsp; 3. Did a simple project named "Percentage Calculator" <br>
 
 Chapter 2 is all about "Operators and Expression" - https://github.com/Atharva-stack20/Java/tree/main/Chapter2 <br>
   In this chapter I have covered: <br>
