@@ -10,6 +10,12 @@ Chapter 2 is all about "Operators and Expression" - https://github.com/Atharva-s
   &ensp; In this chapter, I have covered: <br>
     &emsp; 1. Precedence of operators and how their priority affects the solution. <br>
     &emsp; 2. How Associativity works.<br>
-    &emsp; 3. How to perform increment and decrement.
+    &emsp; 3. How to perform increment and decrement. <br>
 
+Chapter 3 is all about "Strings" - https://github.com/Atharva-stack20/Java/tree/main/Chapter3 <br>
+  &ensp; In this chapter, I have covered: <br>
+    &emsp; 1. Ways to define string and its syntax. <br>
+    &emsp; 2. Different methods on string. <br>
+    &emsp; 3. Different Escape sequence. <br>
+    
 
