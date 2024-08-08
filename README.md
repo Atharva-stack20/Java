@@ -6,4 +6,6 @@ Chapter 1 is all about "Variables And Data types" - https://github.com/Atharva-s
     2. Different data types and their use cases <br>
     3. Did a simple project named "Percentage Calculator" <br>
 
+Chapter 2 is all about "Operators and Expression" - 
+
 
