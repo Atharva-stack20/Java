@@ -17,5 +17,12 @@ Chapter 3 is all about "Strings" - https://github.com/Atharva-stack20/Java/tree/
     &emsp; 1. Ways to define string and its syntax. <br>
     &emsp; 2. Different methods on string. <br>
     &emsp; 3. Different Escape sequence. <br>
+
+Chapter 4 is all about "Conditionals statements" - https://github.com/Atharva-stack20/Java/tree/main/Chapter4 <br>
+  &ensp; In this chapter, I have covered: <br>
+    &emsp; 1. If-else statements. <br>
+    &emsp; 2. Switch cases. <br>
+    &emsp; 3. Relational and Logical operators. <br>
+    &emsp; 4. Did a Rock-Paper-scissors project. <br>
     
 
