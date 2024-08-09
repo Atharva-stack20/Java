@@ -24,5 +24,12 @@ Chapter 4 is all about "Conditionals statements" - https://github.com/Atharva-st
     &emsp; 2. Switch cases. <br>
     &emsp; 3. Relational and Logical operators. <br>
     &emsp; 4. Did a Rock-Paper-scissors project. <br>
+
+Chapter 5 is all about "Loop control instruction" - https://github.com/Atharva-stack20/Java/tree/main/Chapter5 <br>
+  &ensp; In this chapter, I have covered: <br>
+    &emsp; 1. While loop. <br>
+    &emsp; 2. do while loop. <br>
+    &emsp; 3. for loop. <br>
+    &emsp; 4. Break and continue statement. <br>
     
 
