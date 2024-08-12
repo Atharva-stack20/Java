@@ -31,5 +31,12 @@ Chapter 5 is all about "Loop control instruction" - https://github.com/Atharva-s
     &emsp; 2. do while loop. <br>
     &emsp; 3. for loop. <br>
     &emsp; 4. Break and continue statement. <br>
+
+Chapter 5 is all about "Arrays" - https://github.com/Atharva-stack20/Java/tree/main/Chapter6 <br>
+  &ensp; In this chapter, I have covered: <br>
+    &emsp; 1. Types of declaring arrays <br>
+    &emsp; 2. Accessing array elements <br>
+    &emsp; 3. Displaying an array <br>
+    &emsp; 4. Multidimensional array <br>
     
 
